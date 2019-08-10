@@ -19,7 +19,7 @@
    1. 二级
 1. 一级有序
    2. 二级有序
-  
+
 姓名|技能|排行
 --|:--:|--:
 刘备|哭|大哥
@@ -35,12 +35,11 @@
     fun();
 ```
 
-```flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&```
+
+$a+b$
+
+
+$1\qquad1$
+
+$$a+b$$
+$a+b$
